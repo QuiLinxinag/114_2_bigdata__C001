@@ -2,7 +2,9 @@
 請直接複製並執行這行，這會覆蓋掉原本那個一直討密碼的 HTTPS 設定：
 
 PowerShell
+‵‵‵
 git remote set-url origin git@github.com:QuiLinxinag/114_2_bigdata__LXQ_702.git
+‵‵‵
 2. 確認網址是否更改成功
 輸入以下指令檢查：
 
